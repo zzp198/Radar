@@ -44,6 +44,16 @@
       "Name": "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/arenaTransition_01.tdt",
       "ExpectedCount": 1,
       "DisplayName": "Boss stronghold"
+    },
+    {
+      "Name": "Metadata/Terrain/Leagues/Ultimatum/UltimatumArena/Tiles/ultimatum_altar.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "致命贪婪"
+    },
+    {
+      "Name": "Metadata/Terrain/RuinedTempleForest/Stairs/templeruinforest_stairs_concave_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "星殒巨坑"
     }
   ],
   "2_6_2": [
